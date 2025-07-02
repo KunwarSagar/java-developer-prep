@@ -1,11 +1,12 @@
 # Day 2 – Object-Oriented Programming in Java
+Object-Oriented Programming is a programming paradigm centered around objects — reusable instances of classes that contain data (fields) and behavior (methods).
 
 ## What I Learned
 
 ### Pillars of OOP:
-1. **Encapsulation** – Hiding internal state using private fields & public getters/setters
+1. **Encapsulation** – Group related data & behavior; Hiding internal state using private fields & public getters/setters
 2. **Inheritance** – Extending base classes to reuse code
-3. **Abstraction** – Hiding complexity via abstract classes or interfaces
+3. **Abstraction** – Expose only essential features; Hiding complexity via abstract classes or interfaces
 4. **Polymorphism** – Same interface, multiple implementations (e.g., method overriding)
 
 ## Code Files:
