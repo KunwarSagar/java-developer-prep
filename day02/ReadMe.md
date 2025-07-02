@@ -9,10 +9,10 @@
 4. **Polymorphism** – Same interface, multiple implementations (e.g., method overriding)
 
 ## Code Files:
-- `BankAccount.java`: Demonstrates Encapsulation
-- `InheritanceExample.java`: Demonstrates Inheritance and Method Overriding
-- `AbstractionExample.java`: Demonstrates Abstract Classes
-- `PolymorphismExample.java`: Demonstrates runtime polymorphism
+- `Encapsulation.java`: Demonstrates Encapsulation
+- `Inheritance.java`: Demonstrates Inheritance and Method Overriding
+- `Abstraction.java`: Demonstrates Abstract Classes
+- `Polymorphism.java`: Demonstrates runtime polymorphism
 
 
 ## 	Q: What’s the difference between abstraction and encapsulation?
